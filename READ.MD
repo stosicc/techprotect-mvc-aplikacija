@@ -16,7 +16,7 @@ Omogućava praćenje svih faza popravke, dodavanje komentara servisera, kao i č
 
 ---
 
-## 👤 Tipovi korisnika
+Tipovi korisnika
 
 Aplikacija razlikuje dve uloge korisnika:
 
@@ -109,6 +109,15 @@ Baza podataka (osnovne tabele)
 - `st_tipovi_sistema` – tipovi uređaja (alarm, kamera, laptop...)
 
 ---
+Login podaci:
+
+Korisnik: 
+email: test1@gmail.com
+password: 123
+
+Admin:
+email: admin@gmail.com
+password: 123
 
 Autor
 
