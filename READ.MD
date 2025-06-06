@@ -119,6 +119,8 @@ Admin:
 email: admin@gmail.com
 password: 123
 
+Link aplikacije: https://usp2022.epizy.com/sup25/st/index.php
+
 Autor
 
 Projekat izradio: Stanislav Tošić
